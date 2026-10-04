@@ -1,0 +1,135 @@
+{
+ "case": "/home/claude/scan/day257",
+ "techgraph_objective_per_year": 2815523278.097904,
+ "genx_objective_per_year": 2815523278.0979047,
+ "objective_rel_diff": -1.6936004824128606e-16,
+ "techgraph_costs_per_year": {
+  "new_capacity": 1986735541.4754994,
+  "existing_fom": 0.0,
+  "fuel": 0.0,
+  "variable": 828787736.6224042,
+  "unmet": 0.0
+ },
+ "balance_residuals": 0,
+ "max_simultaneous_charge_discharge_MW": {
+  "MA_battery_power": 0.0,
+  "CT_battery_power": 0.0,
+  "ME_battery_power": 0.0
+ },
+ "unmet_MWh_per_day": 0.0,
+ "solver": {
+  "backend": "scipy.optimize.linprog(highs)",
+  "status_code": 0,
+  "status": "Optimal",
+  "message": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+  "elapsed_seconds": 0.02685797399999501,
+  "mip_gap": 0.0,
+  "mip_dual_bound": 0.0,
+  "mip_node_count": 0,
+  "variables": 1045,
+  "constraints": 936,
+  "integer_variables": 0,
+  "attempts": [
+   {
+    "presolve": true,
+    "status_code": 0,
+    "message": "Optimization terminated successfully. (HiGHS Status 7: Optimal)"
+   }
+  ],
+  "max_absolute_primal_violation": 8.640199666842818e-12,
+  "max_integrality_violation": 0.0
+ },
+ "capacities": [
+  {
+   "design": "CT_battery_energy",
+   "genx": 993.6993869873874,
+   "techgraph": 993.6993869873841,
+   "abs_diff": -3.296918293926865e-12,
+   "rel_diff": 3.3178226102384737e-15
+  },
+  {
+   "design": "CT_battery_power",
+   "genx": 914.2034360283964,
+   "techgraph": 914.2034360283934,
+   "abs_diff": -2.9558577807620168e-12,
+   "rel_diff": 3.2332604147751245e-15
+  },
+  {
+   "design": "CT_natural_gas_combined_cycle",
+   "genx": 1691.183275092338,
+   "techgraph": 1691.1832750923402,
+   "abs_diff": 2.2737367544323206e-12,
+   "rel_diff": 1.344465019208622e-15
+  },
+  {
+   "design": "CT_onshore_wind",
+   "genx": 5780.671994882178,
+   "techgraph": 5780.671994882176,
+   "abs_diff": -2.7284841053187847e-12,
+   "rel_diff": 4.720011977386717e-16
+  },
+  {
+   "design": "CT_solar_pv",
+   "genx": 0.0,
+   "techgraph": 0.0,
+   "abs_diff": 0.0,
+   "rel_diff": null
+  },
+  {
+   "design": "MA_battery_energy",
+   "genx": 0.0,
+   "techgraph": 0.0,
+   "abs_diff": 0.0,
+   "rel_diff": null
+  },
+  {
+   "design": "MA_battery_power",
+   "genx": 0.0,
+   "techgraph": 0.0,
+   "abs_diff": 0.0,
+   "rel_diff": null
+  },
+  {
+   "design": "MA_natural_gas_combined_cycle",
+   "genx": 5613.659631613606,
+   "techgraph": 5613.659631613605,
+   "abs_diff": -9.094947017729282e-13,
+   "rel_diff": 1.6201457898356772e-16
+  },
+  {
+   "design": "MA_solar_pv",
+   "genx": 0.0,
+   "techgraph": 0.0,
+   "abs_diff": 0.0,
+   "rel_diff": null
+  },
+  {
+   "design": "ME_battery_energy",
+   "genx": 149.00980116527367,
+   "techgraph": 149.00980116527285,
+   "abs_diff": -8.242295734817162e-13,
+   "rel_diff": 5.5313782518743515e-15
+  },
+  {
+   "design": "ME_battery_power",
+   "genx": 137.08901707205175,
+   "techgraph": 137.08901707205104,
+   "abs_diff": -7.105427357601002e-13,
+   "rel_diff": 5.183075573345533e-15
+  },
+  {
+   "design": "ME_natural_gas_combined_cycle",
+   "genx": 0.0,
+   "techgraph": 0.0,
+   "abs_diff": 0.0,
+   "rel_diff": null
+  },
+  {
+   "design": "ME_onshore_wind",
+   "genx": 4026.5784865902087,
+   "techgraph": 4026.578486590207,
+   "abs_diff": -1.8189894035458565e-12,
+   "rel_diff": 4.517456718163254e-16
+  }
+ ]
+}
