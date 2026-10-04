@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+.venv/
+venv/
+
+# Solver and run artifacts
+*.lp
+*.mps
+*.log
+
+# Editors and OS
+.DS_Store
+.idea/
+.vscode/
