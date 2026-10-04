@@ -185,6 +185,15 @@ actual flows, no further gain at 30 days.
 
 ## 7. Next steps
 
+**4 October follow-up:** The controlled single-priority comparison is documented in
+`cases/potomac_water/CONVERGENCE.md`, with the runner `check_convergence.py` and results in
+`results/convergence_single_zone.json`. This enables `same_info=True` as well as equal JR storage
+values. All 18 runs completed: minimum-storage differences range from -0.951 to +0.588 BG,
+with no deficit days in either model. Cross-scenario convergence is not established. Structural differences remain,
+including release/transit accounting and the missing Vulcan quarry in Techgraph; equality of
+minimum storage is not enough to establish convergence. Resolve those differences before treating
+the full horizon scan as a controlled comparison of operating priorities and foresight.
+
 **Water case, in order:**
 1. Rerun the rule-matched variant with Jennings Randolph as a single zone (equal upper and lower values) and confirm
    convergence across all nine historic scenarios.

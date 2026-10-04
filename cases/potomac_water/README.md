@@ -24,3 +24,9 @@ Run from this folder with `TECHGRAPH_BACKEND=scipy`.
 ## Draft
 `draft/Potomac_DC_Power_Water_Draft.md`: the replication draft for discussion with ICPRB CO-OP (data-center water
 demand, the historic-flow replication with sensitivity, and the cooling trade-off).
+
+## Controlled convergence follow-up
+
+`check_convergence.py` runs all 18 scenario/window comparisons with equal Jennings Randolph values
+and `same_info=True`. See [CONVERGENCE.md](CONVERGENCE.md) for configuration, results, and remaining
+structural differences. Daily traces are saved in `results/convergence_single_zone.json`.
