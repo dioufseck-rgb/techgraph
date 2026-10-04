@@ -1,0 +1,6 @@
+NumStages: 6
+StageLengths: [5, 5, 5, 5, 5, 5]
+WACC: 0.045
+ConvergenceTolerance: 1.0e-9
+Myopic: 0
+WriteIntermittentOutputs: 0
