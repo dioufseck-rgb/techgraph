@@ -1,0 +1,2738 @@
+{
+ "Table A.4-1: 2030 Historic Flows and Low Demands.": {
+  "table": 1,
+  "year": 2030,
+  "flows": "Historic",
+  "demands": "Low",
+  "pct_years_no_deficit": [
+   100.0,
+   100.0,
+   100.0
+  ],
+  "max_consec_deficit_days": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "deficit_days": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "max_deficit_mgd": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "total_deficit_mg": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "voluntary": [
+   2.59,
+   13.83,
+   3.27
+  ],
+  "emergency": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "min_LS_bg": [
+   1.56,
+   1.92,
+   1.56
+  ],
+  "min_JRws_bg": [
+   7.5,
+   7.77,
+   7.54
+  ],
+  "min_LS_JRws_bg": [
+   9.09,
+   9.69,
+   9.1
+  ],
+  "annual_demand": [
+   439.0,
+   443.0,
+   442.0
+  ],
+  "july_demand": [
+   515.0,
+   539.0,
+   529.0
+  ],
+  "min_nat_flow_late_summer": [
+   691.0,
+   456.0,
+   464.0
+  ],
+  "min_flow_below_intakes_late_summer": [
+   349.0,
+   171.0,
+   166.0
+  ]
+ },
+ "Table A.4-2: 2030 Historic Flows and Medium Demands.": {
+  "table": 2,
+  "year": 2030,
+  "flows": "Historic",
+  "demands": "Medium",
+  "pct_years_no_deficit": [
+   100.0,
+   100.0,
+   100.0
+  ],
+  "max_consec_deficit_days": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "deficit_days": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "max_deficit_mgd": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "total_deficit_mg": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "voluntary": [
+   3.75,
+   31.82,
+   8.98
+  ],
+  "emergency": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "min_LS_bg": [
+   1.23,
+   1.37,
+   1.25
+  ],
+  "min_JRws_bg": [
+   5.57,
+   5.62,
+   5.77
+  ],
+  "min_LS_JRws_bg": [
+   6.84,
+   6.99,
+   7.02
+  ],
+  "annual_demand": [
+   481.0,
+   482.0,
+   483.0
+  ],
+  "july_demand": [
+   564.0,
+   589.0,
+   578.0
+  ],
+  "min_nat_flow_late_summer": [
+   691.0,
+   456.0,
+   464.0
+  ],
+  "min_flow_below_intakes_late_summer": [
+   332.0,
+   154.0,
+   150.0
+  ]
+ },
+ "Table A.4-3: 2030 Historic Flows and High Demands.": {
+  "table": 3,
+  "year": 2030,
+  "flows": "Historic",
+  "demands": "High",
+  "pct_years_no_deficit": [
+   100.0,
+   100.0,
+   100.0
+  ],
+  "max_consec_deficit_days": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "deficit_days": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "max_deficit_mgd": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "total_deficit_mg": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "voluntary": [
+   3.84,
+   36.39,
+   19.92
+  ],
+  "emergency": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "min_LS_bg": [
+   0.57,
+   0.57,
+   0.95
+  ],
+  "min_JRws_bg": [
+   2.9,
+   2.9,
+   3.93
+  ],
+  "min_LS_JRws_bg": [
+   3.48,
+   3.48,
+   4.88
+  ],
+  "annual_demand": [
+   523.0,
+   521.0,
+   523.0
+  ],
+  "july_demand": [
+   612.0,
+   634.0,
+   627.0
+  ],
+  "min_nat_flow_late_summer": [
+   691.0,
+   456.0,
+   464.0
+  ],
+  "min_flow_below_intakes_late_summer": [
+   310.0,
+   142.0,
+   149.0
+  ]
+ },
+ "Table A.4-4: 2045 Historic Flows and Low Demands.": {
+  "table": 4,
+  "year": 2045,
+  "flows": "Historic",
+  "demands": "Low",
+  "pct_years_no_deficit": [
+   100.0,
+   100.0,
+   100.0
+  ],
+  "max_consec_deficit_days": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "deficit_days": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "max_deficit_mgd": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "total_deficit_mg": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "voluntary": [
+   3.75,
+   31.57,
+   8.87
+  ],
+  "emergency": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "min_LS_bg": [
+   1.27,
+   1.47,
+   1.27
+  ],
+  "min_JRws_bg": [
+   5.46,
+   5.54,
+   5.61
+  ],
+  "min_LS_JRws_bg": [
+   6.78,
+   7.01,
+   6.88
+  ],
+  "annual_demand": [
+   476.0,
+   476.0,
+   477.0
+  ],
+  "july_demand": [
+   557.0,
+   582.0,
+   571.0
+  ],
+  "min_nat_flow_late_summer": [
+   691.0,
+   456.0,
+   464.0
+  ],
+  "min_flow_below_intakes_late_summer": [
+   333.0,
+   153.0,
+   149.0
+  ]
+ },
+ "Table A.4-5: 2045 Historic Flows and Medium Demands.": {
+  "table": 5,
+  "year": 2045,
+  "flows": "Historic",
+  "demands": "Medium",
+  "pct_years_no_deficit": [
+   100.0,
+   100.0,
+   100.0
+  ],
+  "max_consec_deficit_days": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "deficit_days": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "max_deficit_mgd": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "total_deficit_mg": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "voluntary": [
+   4.25,
+   37.07,
+   23.68
+  ],
+  "emergency": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "min_LS_bg": [
+   0.54,
+   0.55,
+   0.82
+  ],
+  "min_JRws_bg": [
+   2.38,
+   2.4,
+   3.18
+  ],
+  "min_LS_JRws_bg": [
+   2.93,
+   2.94,
+   4.0
+  ],
+  "annual_demand": [
+   526.0,
+   524.0,
+   525.0
+  ],
+  "july_demand": [
+   616.0,
+   640.0,
+   630.0
+  ],
+  "min_nat_flow_late_summer": [
+   691.0,
+   456.0,
+   464.0
+  ],
+  "min_flow_below_intakes_late_summer": [
+   314.0,
+   142.0,
+   152.0
+  ]
+ },
+ "Table A.4-6: 2045 Historic Flows and High Demands.": {
+  "table": 6,
+  "year": 2045,
+  "flows": "Historic",
+  "demands": "High",
+  "pct_years_no_deficit": [
+   98.73,
+   99.49,
+   100.0
+  ],
+  "max_consec_deficit_days": [
+   2.0,
+   2.0,
+   0.0
+  ],
+  "deficit_days": [
+   2.0,
+   2.0,
+   0.0
+  ],
+  "max_deficit_mgd": [
+   -40.0,
+   -40.0,
+   0.0
+  ],
+  "total_deficit_mg": [
+   -49.0,
+   -49.0,
+   0.0
+  ],
+  "voluntary": [
+   7.5,
+   17.76,
+   36.36
+  ],
+  "emergency": [
+   2.76,
+   21.35,
+   0.12
+  ],
+  "min_LS_bg": [
+   0.0,
+   0.0,
+   0.3
+  ],
+  "min_JRws_bg": [
+   0.0,
+   0.0,
+   0.82
+  ],
+  "min_LS_JRws_bg": [
+   0.0,
+   0.0,
+   1.11
+  ],
+  "annual_demand": [
+   577.0,
+   571.0,
+   573.0
+  ],
+  "july_demand": [
+   674.0,
+   697.0,
+   689.0
+  ],
+  "min_nat_flow_late_summer": [
+   691.0,
+   456.0,
+   464.0
+  ],
+  "min_flow_below_intakes_late_summer": [
+   290.0,
+   140.0,
+   147.0
+  ]
+ },
+ "Table A.4-7: 2050 Historic Flows and Low Demands.": {
+  "table": 7,
+  "year": 2050,
+  "flows": "Historic",
+  "demands": "Low",
+  "pct_years_no_deficit": [
+   100.0,
+   100.0,
+   100.0
+  ],
+  "max_consec_deficit_days": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "deficit_days": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "max_deficit_mgd": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "total_deficit_mg": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "voluntary": [
+   3.75,
+   33.26,
+   10.14
+  ],
+  "emergency": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "min_LS_bg": [
+   1.17,
+   1.34,
+   1.18
+  ],
+  "min_JRws_bg": [
+   4.96,
+   5.02,
+   5.17
+  ],
+  "min_LS_JRws_bg": [
+   6.2,
+   6.36,
+   6.35
+  ],
+  "annual_demand": [
+   482.0,
+   482.0,
+   483.0
+  ],
+  "july_demand": [
+   564.0,
+   588.0,
+   580.0
+  ],
+  "min_nat_flow_late_summer": [
+   691.0,
+   456.0,
+   464.0
+  ],
+  "min_flow_below_intakes_late_summer": [
+   328.0,
+   151.0,
+   150.0
+  ]
+ },
+ "Table A.4-8: 2050 Historic Flows and Medium Demands.": {
+  "table": 8,
+  "year": 2050,
+  "flows": "Historic",
+  "demands": "Medium",
+  "pct_years_no_deficit": [
+   100.0,
+   100.0,
+   100.0
+  ],
+  "max_consec_deficit_days": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "deficit_days": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "max_deficit_mgd": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "total_deficit_mg": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "voluntary": [
+   6.19,
+   36.16,
+   28.92
+  ],
+  "emergency": [
+   0.36,
+   1.78,
+   0.0
+  ],
+  "min_LS_bg": [
+   0.1,
+   0.1,
+   0.62
+  ],
+  "min_JRws_bg": [
+   1.09,
+   1.09,
+   2.33
+  ],
+  "min_LS_JRws_bg": [
+   1.19,
+   1.19,
+   2.95
+  ],
+  "annual_demand": [
+   539.0,
+   537.0,
+   537.0
+  ],
+  "july_demand": [
+   631.0,
+   655.0,
+   646.0
+  ],
+  "min_nat_flow_late_summer": [
+   691.0,
+   456.0,
+   464.0
+  ],
+  "min_flow_below_intakes_late_summer": [
+   303.0,
+   141.0,
+   150.0
+  ]
+ },
+ "Table A.4-9: 2050 Historic Flows and High Demands.": {
+  "table": 9,
+  "year": 2050,
+  "flows": "Historic",
+  "demands": "High",
+  "pct_years_no_deficit": [
+   98.49,
+   99.22,
+   100.0
+  ],
+  "max_consec_deficit_days": [
+   2.0,
+   2.0,
+   0.0
+  ],
+  "deficit_days": [
+   3.0,
+   3.0,
+   0.0
+  ],
+  "max_deficit_mgd": [
+   -48.0,
+   -48.0,
+   0.0
+  ],
+  "total_deficit_mg": [
+   -85.0,
+   -82.0,
+   0.0
+  ],
+  "voluntary": [
+   7.5,
+   14.92,
+   37.5
+  ],
+  "emergency": [
+   3.74,
+   24.86,
+   2.75
+  ],
+  "min_LS_bg": [
+   0.0,
+   0.0,
+   0.1
+  ],
+  "min_JRws_bg": [
+   0.0,
+   0.0,
+   0.05
+  ],
+  "min_LS_JRws_bg": [
+   0.0,
+   0.0,
+   0.15
+  ],
+  "annual_demand": [
+   593.0,
+   587.0,
+   587.0
+  ],
+  "july_demand": [
+   692.0,
+   717.0,
+   709.0
+  ],
+  "min_nat_flow_late_summer": [
+   691.0,
+   456.0,
+   464.0
+  ],
+  "min_flow_below_intakes_late_summer": [
+   285.0,
+   140.0,
+   147.0
+  ]
+ },
+ "Table A.4-10: 2030 High Flows and Low Demands.": {
+  "table": 10,
+  "year": 2030,
+  "flows": "Higher",
+  "demands": "Low",
+  "pct_years_no_deficit": [
+   100.0,
+   100.0,
+   100.0
+  ],
+  "max_consec_deficit_days": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "deficit_days": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "max_deficit_mgd": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "total_deficit_mg": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "voluntary": [
+   0.77,
+   0.0,
+   0.43
+  ],
+  "emergency": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "min_LS_bg": [
+   1.6,
+   2.2,
+   1.6
+  ],
+  "min_JRws_bg": [
+   8.25,
+   8.96,
+   8.25
+  ],
+  "min_LS_JRws_bg": [
+   9.85,
+   11.16,
+   9.85
+  ],
+  "annual_demand": [
+   442.0,
+   447.0,
+   446.0
+  ],
+  "july_demand": [
+   524.0,
+   551.0,
+   540.0
+  ],
+  "min_nat_flow_late_summer": [
+   707.0,
+   465.0,
+   475.0
+  ],
+  "min_flow_below_intakes_late_summer": [
+   359.0,
+   173.0,
+   176.0
+  ]
+ },
+ "Table A.4-11: 2030 Higher Flows and Medium Demands.": {
+  "table": 11,
+  "year": 2030,
+  "flows": "Higher",
+  "demands": "Medium",
+  "pct_years_no_deficit": [
+   100.0,
+   100.0,
+   100.0
+  ],
+  "max_consec_deficit_days": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "deficit_days": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "max_deficit_mgd": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "total_deficit_mg": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "voluntary": [
+   3.75,
+   26.4,
+   7.14
+  ],
+  "emergency": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "min_LS_bg": [
+   1.26,
+   1.74,
+   1.26
+  ],
+  "min_JRws_bg": [
+   6.48,
+   6.65,
+   6.52
+  ],
+  "min_LS_JRws_bg": [
+   7.77,
+   8.39,
+   7.78
+  ],
+  "annual_demand": [
+   484.0,
+   486.0,
+   486.0
+  ],
+  "july_demand": [
+   572.0,
+   598.0,
+   589.0
+  ],
+  "min_nat_flow_late_summer": [
+   707.0,
+   465.0,
+   475.0
+  ],
+  "min_flow_below_intakes_late_summer": [
+   341.0,
+   164.0,
+   151.0
+  ]
+ },
+ "Table A.4-12: 2030 Higher Flows and High Demands.": {
+  "table": 12,
+  "year": 2030,
+  "flows": "Higher",
+  "demands": "High",
+  "pct_years_no_deficit": [
+   100.0,
+   100.0,
+   100.0
+  ],
+  "max_consec_deficit_days": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "deficit_days": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "max_deficit_mgd": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "total_deficit_mg": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "voluntary": [
+   3.75,
+   34.9,
+   13.33
+  ],
+  "emergency": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "min_LS_bg": [
+   0.99,
+   1.09,
+   1.02
+  ],
+  "min_JRws_bg": [
+   4.31,
+   4.35,
+   4.84
+  ],
+  "min_LS_JRws_bg": [
+   5.35,
+   5.44,
+   5.86
+  ],
+  "annual_demand": [
+   526.0,
+   525.0,
+   526.0
+  ],
+  "july_demand": [
+   621.0,
+   645.0,
+   635.0
+  ],
+  "min_nat_flow_late_summer": [
+   707.0,
+   465.0,
+   475.0
+  ],
+  "min_flow_below_intakes_late_summer": [
+   319.0,
+   142.0,
+   148.0
+  ]
+ },
+ "Table A.4-13: 2030 Medium Flows and Low Demands.": {
+  "table": 13,
+  "year": 2030,
+  "flows": "Medium",
+  "demands": "Low",
+  "pct_years_no_deficit": [
+   100.0,
+   100.0,
+   100.0
+  ],
+  "max_consec_deficit_days": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "deficit_days": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "max_deficit_mgd": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "total_deficit_mg": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "voluntary": [
+   3.75,
+   31.74,
+   6.26
+  ],
+  "emergency": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "min_LS_bg": [
+   0.99,
+   1.0,
+   1.29
+  ],
+  "min_JRws_bg": [
+   5.31,
+   5.31,
+   6.97
+  ],
+  "min_LS_JRws_bg": [
+   6.31,
+   6.31,
+   8.26
+  ],
+  "annual_demand": [
+   442.0,
+   442.0,
+   444.0
+  ],
+  "july_demand": [
+   524.0,
+   546.0,
+   538.0
+  ],
+  "min_nat_flow_late_summer": [
+   652.0,
+   399.0,
+   442.0
+  ],
+  "min_flow_below_intakes_late_summer": [
+   328.0,
+   149.0,
+   160.0
+  ]
+ },
+ "Table A.4-14: 2030 Medium Flows and Medium Demands.": {
+  "table": 14,
+  "year": 2030,
+  "flows": "Medium",
+  "demands": "Medium",
+  "pct_years_no_deficit": [
+   99.91,
+   99.98,
+   100.0
+  ],
+  "max_consec_deficit_days": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "deficit_days": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "max_deficit_mgd": [
+   -1.0,
+   -1.0,
+   0.0
+  ],
+  "total_deficit_mg": [
+   -1.0,
+   -1.0,
+   0.0
+  ],
+  "voluntary": [
+   3.75,
+   36.78,
+   14.46
+  ],
+  "emergency": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "min_LS_bg": [
+   0.03,
+   0.03,
+   0.99
+  ],
+  "min_JRws_bg": [
+   2.13,
+   2.13,
+   5.01
+  ],
+  "min_LS_JRws_bg": [
+   2.18,
+   2.18,
+   6.0
+  ],
+  "annual_demand": [
+   484.0,
+   483.0,
+   485.0
+  ],
+  "july_demand": [
+   573.0,
+   598.0,
+   589.0
+  ],
+  "min_nat_flow_late_summer": [
+   652.0,
+   399.0,
+   442.0
+  ],
+  "min_flow_below_intakes_late_summer": [
+   312.0,
+   141.0,
+   153.0
+  ]
+ },
+ "Table A.4-15: 2030 Medium Flows and High Demands.": {
+  "table": 15,
+  "year": 2030,
+  "flows": "Medium",
+  "demands": "High",
+  "pct_years_no_deficit": [
+   98.77,
+   99.45,
+   100.0
+  ],
+  "max_consec_deficit_days": [
+   2.0,
+   2.0,
+   0.0
+  ],
+  "deficit_days": [
+   2.0,
+   2.0,
+   0.0
+  ],
+  "max_deficit_mgd": [
+   -54.0,
+   -54.0,
+   0.0
+  ],
+  "total_deficit_mg": [
+   -75.0,
+   -75.0,
+   0.0
+  ],
+  "voluntary": [
+   5.27,
+   19.17,
+   28.3
+  ],
+  "emergency": [
+   2.5,
+   19.68,
+   0.0
+  ],
+  "min_LS_bg": [
+   0.0,
+   0.0,
+   0.64
+  ],
+  "min_JRws_bg": [
+   0.01,
+   0.01,
+   2.89
+  ],
+  "min_LS_JRws_bg": [
+   0.01,
+   0.01,
+   3.54
+  ],
+  "annual_demand": [
+   526.0,
+   522.0,
+   525.0
+  ],
+  "july_demand": [
+   621.0,
+   644.0,
+   638.0
+  ],
+  "min_nat_flow_late_summer": [
+   652.0,
+   399.0,
+   442.0
+  ],
+  "min_flow_below_intakes_late_summer": [
+   292.0,
+   140.0,
+   153.0
+  ]
+ },
+ "Table A.4-16: 2030 Lower Flows and Low Demands.": {
+  "table": 16,
+  "year": 2030,
+  "flows": "Lower",
+  "demands": "Low",
+  "pct_years_no_deficit": [
+   98.77,
+   99.19,
+   100.0
+  ],
+  "max_consec_deficit_days": [
+   3.0,
+   3.0,
+   0.0
+  ],
+  "deficit_days": [
+   3.0,
+   3.0,
+   0.0
+  ],
+  "max_deficit_mgd": [
+   -57.0,
+   -57.0,
+   0.0
+  ],
+  "total_deficit_mg": [
+   -119.0,
+   -119.0,
+   0.0
+  ],
+  "voluntary": [
+   5.0,
+   19.16,
+   10.3
+  ],
+  "emergency": [
+   2.5,
+   19.37,
+   0.0
+  ],
+  "min_LS_bg": [
+   0.0,
+   0.0,
+   1.08
+  ],
+  "min_JRws_bg": [
+   0.05,
+   0.05,
+   5.82
+  ],
+  "min_LS_JRws_bg": [
+   0.05,
+   0.05,
+   6.9
+  ],
+  "annual_demand": [
+   442.0,
+   440.0,
+   443.0
+  ],
+  "july_demand": [
+   524.0,
+   551.0,
+   539.0
+  ],
+  "min_nat_flow_late_summer": [
+   543.0,
+   332.0,
+   416.0
+  ],
+  "min_flow_below_intakes_late_summer": [
+   299.0,
+   140.0,
+   156.0
+  ]
+ },
+ "Table A.4-17: 2030 Lower Flows and Medium Demands.": {
+  "table": 17,
+  "year": 2030,
+  "flows": "Lower",
+  "demands": "Medium",
+  "pct_years_no_deficit": [
+   98.77,
+   93.49,
+   100.0
+  ],
+  "max_consec_deficit_days": [
+   18.0,
+   18.0,
+   0.0
+  ],
+  "deficit_days": [
+   24.0,
+   24.0,
+   0.0
+  ],
+  "max_deficit_mgd": [
+   -102.0,
+   -102.0,
+   0.0
+  ],
+  "total_deficit_mg": [
+   -1076.0,
+   -1076.0,
+   0.0
+  ],
+  "voluntary": [
+   5.05,
+   15.06,
+   26.96
+  ],
+  "emergency": [
+   2.5,
+   25.1,
+   0.0
+  ],
+  "min_LS_bg": [
+   0.0,
+   0.0,
+   0.73
+  ],
+  "min_JRws_bg": [
+   0.0,
+   0.0,
+   3.47
+  ],
+  "min_LS_JRws_bg": [
+   0.0,
+   0.0,
+   4.2
+  ],
+  "annual_demand": [
+   484.0,
+   480.0,
+   483.0
+  ],
+  "july_demand": [
+   572.0,
+   596.0,
+   586.0
+  ],
+  "min_nat_flow_late_summer": [
+   543.0,
+   332.0,
+   416.0
+  ],
+  "min_flow_below_intakes_late_summer": [
+   288.0,
+   139.0,
+   157.0
+  ]
+ },
+ "Table A.4-18: 2030 Lower Flows and High Demands.": {
+  "table": 18,
+  "year": 2030,
+  "flows": "Lower",
+  "demands": "High",
+  "pct_years_no_deficit": [
+   98.6,
+   86.22,
+   100.0
+  ],
+  "max_consec_deficit_days": [
+   35.0,
+   35.0,
+   0.0
+  ],
+  "deficit_days": [
+   50.0,
+   50.0,
+   0.0
+  ],
+  "max_deficit_mgd": [
+   -142.0,
+   -142.0,
+   0.0
+  ],
+  "total_deficit_mg": [
+   -2789.0,
+   -2788.0,
+   0.0
+  ],
+  "voluntary": [
+   6.96,
+   12.24,
+   37.93
+  ],
+  "emergency": [
+   2.5,
+   29.13,
+   0.0
+  ],
+  "min_LS_bg": [
+   0.0,
+   0.0,
+   0.33
+  ],
+  "min_JRws_bg": [
+   0.0,
+   0.0,
+   1.59
+  ],
+  "min_LS_JRws_bg": [
+   0.0,
+   0.0,
+   1.93
+  ],
+  "annual_demand": [
+   526.0,
+   520.0,
+   522.0
+  ],
+  "july_demand": [
+   621.0,
+   647.0,
+   637.0
+  ],
+  "min_nat_flow_late_summer": [
+   543.0,
+   332.0,
+   416.0
+  ],
+  "min_flow_below_intakes_late_summer": [
+   274.0,
+   139.0,
+   154.0
+  ]
+ },
+ "Table A.4-19: 2045 Higher Flows and Low Demands.": {
+  "table": 19,
+  "year": 2045,
+  "flows": "Higher",
+  "demands": "Low",
+  "pct_years_no_deficit": [
+   100.0,
+   100.0,
+   100.0
+  ],
+  "max_consec_deficit_days": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "deficit_days": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "max_deficit_mgd": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "total_deficit_mg": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "voluntary": [
+   1.64,
+   4.07,
+   4.12
+  ],
+  "emergency": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "min_LS_bg": [
+   1.46,
+   2.05,
+   1.46
+  ],
+  "min_JRws_bg": [
+   7.1,
+   7.83,
+   7.1
+  ],
+  "min_LS_JRws_bg": [
+   8.56,
+   9.88,
+   8.56
+  ],
+  "annual_demand": [
+   481.0,
+   486.0,
+   483.0
+  ],
+  "july_demand": [
+   572.0,
+   597.0,
+   586.0
+  ],
+  "min_nat_flow_late_summer": [
+   745.0,
+   495.0,
+   499.0
+  ],
+  "min_flow_below_intakes_late_summer": [
+   365.0,
+   170.0,
+   173.0
+  ]
+ },
+ "Table A.4-20: 2045 Higher Flows and Medium Demands.": {
+  "table": 20,
+  "year": 2045,
+  "flows": "Higher",
+  "demands": "Medium",
+  "pct_years_no_deficit": [
+   100.0,
+   100.0,
+   100.0
+  ],
+  "max_consec_deficit_days": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "deficit_days": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "max_deficit_mgd": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "total_deficit_mg": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "voluntary": [
+   3.75,
+   33.41,
+   10.86
+  ],
+  "emergency": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "min_LS_bg": [
+   1.03,
+   1.59,
+   1.03
+  ],
+  "min_JRws_bg": [
+   4.88,
+   5.44,
+   4.89
+  ],
+  "min_LS_JRws_bg": [
+   5.92,
+   7.03,
+   5.92
+  ],
+  "annual_demand": [
+   532.0,
+   531.0,
+   533.0
+  ],
+  "july_demand": [
+   631.0,
+   655.0,
+   648.0
+  ],
+  "min_nat_flow_late_summer": [
+   745.0,
+   495.0,
+   499.0
+  ],
+  "min_flow_below_intakes_late_summer": [
+   343.0,
+   143.0,
+   144.0
+  ]
+ },
+ "Table A.4-21: 2045 Higher Flows and High Demands.": {
+  "table": 21,
+  "year": 2045,
+  "flows": "Higher",
+  "demands": "High",
+  "pct_years_no_deficit": [
+   100.0,
+   100.0,
+   100.0
+  ],
+  "max_consec_deficit_days": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "deficit_days": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "max_deficit_mgd": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "total_deficit_mg": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "voluntary": [
+   4.92,
+   37.36,
+   27.53
+  ],
+  "emergency": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "min_LS_bg": [
+   0.5,
+   0.72,
+   0.51
+  ],
+  "min_JRws_bg": [
+   2.17,
+   2.36,
+   2.33
+  ],
+  "min_LS_JRws_bg": [
+   2.71,
+   3.08,
+   2.85
+  ],
+  "annual_demand": [
+   583.0,
+   581.0,
+   581.0
+  ],
+  "july_demand": [
+   690.0,
+   714.0,
+   705.0
+  ],
+  "min_nat_flow_late_summer": [
+   745.0,
+   495.0,
+   499.0
+  ],
+  "min_flow_below_intakes_late_summer": [
+   316.0,
+   141.0,
+   146.0
+  ]
+ },
+ "Table A.4-22: 2045 Medium Flows and Low Demands.": {
+  "table": 22,
+  "year": 2045,
+  "flows": "Medium",
+  "demands": "Low",
+  "pct_years_no_deficit": [
+   99.81,
+   99.96,
+   100.0
+  ],
+  "max_consec_deficit_days": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "deficit_days": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "max_deficit_mgd": [
+   -1.0,
+   -1.0,
+   0.0
+  ],
+  "total_deficit_mg": [
+   -1.0,
+   -1.0,
+   0.0
+  ],
+  "voluntary": [
+   3.75,
+   35.69,
+   15.84
+  ],
+  "emergency": [
+   0.29,
+   2.1,
+   0.0
+  ],
+  "min_LS_bg": [
+   0.04,
+   0.04,
+   0.89
+  ],
+  "min_JRws_bg": [
+   1.19,
+   1.19,
+   4.6
+  ],
+  "min_LS_JRws_bg": [
+   1.23,
+   1.23,
+   5.49
+  ],
+  "annual_demand": [
+   481.0,
+   480.0,
+   481.0
+  ],
+  "july_demand": [
+   572.0,
+   598.0,
+   587.0
+  ],
+  "min_nat_flow_late_summer": [
+   642.0,
+   392.0,
+   445.0
+  ],
+  "min_flow_below_intakes_late_summer": [
+   315.0,
+   150.0,
+   152.0
+  ]
+ },
+ "Table A.4-23: 2045 Medium Flows and Medium Demands.": {
+  "table": 23,
+  "year": 2045,
+  "flows": "Medium",
+  "demands": "Medium",
+  "pct_years_no_deficit": [
+   98.77,
+   98.68,
+   100.0
+  ],
+  "max_consec_deficit_days": [
+   2.0,
+   2.0,
+   0.0
+  ],
+  "deficit_days": [
+   5.0,
+   5.0,
+   0.0
+  ],
+  "max_deficit_mgd": [
+   -62.0,
+   -62.0,
+   0.0
+  ],
+  "total_deficit_mg": [
+   -137.0,
+   -137.0,
+   0.0
+  ],
+  "voluntary": [
+   5.64,
+   15.46,
+   31.61
+  ],
+  "emergency": [
+   2.5,
+   24.42,
+   0.0
+  ],
+  "min_LS_bg": [
+   0.0,
+   0.0,
+   0.41
+  ],
+  "min_JRws_bg": [
+   0.0,
+   0.0,
+   2.13
+  ],
+  "min_LS_JRws_bg": [
+   0.0,
+   0.0,
+   2.53
+  ],
+  "annual_demand": [
+   532.0,
+   527.0,
+   529.0
+  ],
+  "july_demand": [
+   631.0,
+   656.0,
+   647.0
+  ],
+  "min_nat_flow_late_summer": [
+   642.0,
+   392.0,
+   445.0
+  ],
+  "min_flow_below_intakes_late_summer": [
+   299.0,
+   139.0,
+   151.0
+  ]
+ },
+ "Table A.4-24: 2045 Medium Flows and High Demands.": {
+  "table": 24,
+  "year": 2045,
+  "flows": "Medium",
+  "demands": "High",
+  "pct_years_no_deficit": [
+   98.35,
+   92.6,
+   100.0
+  ],
+  "max_consec_deficit_days": [
+   14.0,
+   14.0,
+   0.0
+  ],
+  "deficit_days": [
+   27.0,
+   27.0,
+   0.0
+  ],
+  "max_deficit_mgd": [
+   -148.0,
+   -148.0,
+   0.0
+  ],
+  "total_deficit_mg": [
+   -1089.0,
+   -1084.0,
+   0.0
+  ],
+  "voluntary": [
+   8.73,
+   12.11,
+   37.93
+  ],
+  "emergency": [
+   3.75,
+   29.11,
+   3.07
+  ],
+  "min_LS_bg": [
+   0.0,
+   0.0,
+   0.02
+  ],
+  "min_JRws_bg": [
+   0.0,
+   0.0,
+   0.02
+  ],
+  "min_LS_JRws_bg": [
+   0.0,
+   0.0,
+   0.04
+  ],
+  "annual_demand": [
+   582.0,
+   575.0,
+   577.0
+  ],
+  "july_demand": [
+   689.0,
+   713.0,
+   706.0
+  ],
+  "min_nat_flow_late_summer": [
+   642.0,
+   392.0,
+   445.0
+  ],
+  "min_flow_below_intakes_late_summer": [
+   276.0,
+   140.0,
+   149.0
+  ]
+ },
+ "Table A.4-25: 2045 Lower Flows and Low Demands.": {
+  "table": 25,
+  "year": 2045,
+  "flows": "Lower",
+  "demands": "Low",
+  "pct_years_no_deficit": [
+   98.75,
+   83.42,
+   100.0
+  ],
+  "max_consec_deficit_days": [
+   37.0,
+   37.0,
+   0.0
+  ],
+  "deficit_days": [
+   61.0,
+   61.0,
+   0.0
+  ],
+  "max_deficit_mgd": [
+   -146.0,
+   -146.0,
+   0.0
+  ],
+  "total_deficit_mg": [
+   -3502.0,
+   -3502.0,
+   0.0
+  ],
+  "voluntary": [
+   6.39,
+   11.18,
+   36.55
+  ],
+  "emergency": [
+   2.5,
+   30.5,
+   0.0
+  ],
+  "min_LS_bg": [
+   0.0,
+   0.0,
+   0.31
+  ],
+  "min_JRws_bg": [
+   0.0,
+   0.0,
+   1.9
+  ],
+  "min_LS_JRws_bg": [
+   0.0,
+   0.0,
+   2.21
+  ],
+  "annual_demand": [
+   481.0,
+   474.0,
+   479.0
+  ],
+  "july_demand": [
+   572.0,
+   599.0,
+   587.0
+  ],
+  "min_nat_flow_late_summer": [
+   490.0,
+   300.0,
+   396.0
+  ],
+  "min_flow_below_intakes_late_summer": [
+   266.0,
+   140.0,
+   159.0
+  ]
+ },
+ "Table A.4-26: 2045 Lower Flows and Medium Demands.": {
+  "table": 26,
+  "year": 2045,
+  "flows": "Lower",
+  "demands": "Medium",
+  "pct_years_no_deficit": [
+   97.63,
+   77.85,
+   100.0
+  ],
+  "max_consec_deficit_days": [
+   60.0,
+   60.0,
+   0.0
+  ],
+  "deficit_days": [
+   82.0,
+   81.0,
+   0.0
+  ],
+  "max_deficit_mgd": [
+   -211.0,
+   -211.0,
+   0.0
+  ],
+  "total_deficit_mg": [
+   -7717.0,
+   -7693.0,
+   0.0
+  ],
+  "voluntary": [
+   8.75,
+   8.39,
+   37.75
+  ],
+  "emergency": [
+   3.75,
+   34.51,
+   3.62
+  ],
+  "min_LS_bg": [
+   0.0,
+   0.0,
+   0.01
+  ],
+  "min_JRws_bg": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "min_LS_JRws_bg": [
+   0.0,
+   0.0,
+   0.01
+  ],
+  "annual_demand": [
+   531.0,
+   521.0,
+   525.0
+  ],
+  "july_demand": [
+   631.0,
+   658.0,
+   644.0
+  ],
+  "min_nat_flow_late_summer": [
+   490.0,
+   300.0,
+   396.0
+  ],
+  "min_flow_below_intakes_late_summer": [
+   257.0,
+   140.0,
+   156.0
+  ]
+ },
+ "Table A.4-27: 2045 Lower Flows and High Demands.": {
+  "table": 27,
+  "year": 2045,
+  "flows": "Lower",
+  "demands": "High",
+  "pct_years_no_deficit": [
+   95.06,
+   74.06,
+   99.1
+  ],
+  "max_consec_deficit_days": [
+   62.0,
+   62.0,
+   1.0
+  ],
+  "deficit_days": [
+   103.0,
+   95.0,
+   3.0
+  ],
+  "max_deficit_mgd": [
+   -256.0,
+   -256.0,
+   -82.0
+  ],
+  "total_deficit_mg": [
+   -13061.0,
+   -12668.0,
+   -165.0
+  ],
+  "voluntary": [
+   10.31,
+   7.38,
+   38.04
+  ],
+  "emergency": [
+   3.75,
+   36.41,
+   6.1
+  ],
+  "min_LS_bg": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "min_JRws_bg": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "min_LS_JRws_bg": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "annual_demand": [
+   582.0,
+   568.0,
+   572.0
+  ],
+  "july_demand": [
+   689.0,
+   711.0,
+   703.0
+  ],
+  "min_nat_flow_late_summer": [
+   490.0,
+   300.0,
+   396.0
+  ],
+  "min_flow_below_intakes_late_summer": [
+   241.0,
+   72.0,
+   93.0
+  ]
+ },
+ "Table A.4-28: 2050 Higher Flows and Low Demands.": {
+  "table": 28,
+  "year": 2050,
+  "flows": "Higher",
+  "demands": "Low",
+  "pct_years_no_deficit": [
+   100.0,
+   100.0,
+   100.0
+  ],
+  "max_consec_deficit_days": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "deficit_days": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "max_deficit_mgd": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "total_deficit_mg": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "voluntary": [
+   3.75,
+   33.73,
+   10.94
+  ],
+  "emergency": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "min_LS_bg": [
+   1.15,
+   1.29,
+   1.16
+  ],
+  "min_JRws_bg": [
+   4.81,
+   4.85,
+   5.02
+  ],
+  "min_LS_JRws_bg": [
+   6.01,
+   6.13,
+   6.18
+  ],
+  "annual_demand": [
+   486.0,
+   486.0,
+   486.0
+  ],
+  "july_demand": [
+   569.0,
+   593.0,
+   583.0
+  ],
+  "min_nat_flow_late_summer": [
+   691.0,
+   456.0,
+   464.0
+  ],
+  "min_flow_below_intakes_late_summer": [
+   328.0,
+   150.0,
+   150.0
+  ]
+ },
+ "Table A.4-29: 2050 Higher Flows and Medium Demands.": {
+  "table": 29,
+  "year": 2050,
+  "flows": "Higher",
+  "demands": "Medium",
+  "pct_years_no_deficit": [
+   100.0,
+   100.0,
+   100.0
+  ],
+  "max_consec_deficit_days": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "deficit_days": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "max_deficit_mgd": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "total_deficit_mg": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "voluntary": [
+   3.75,
+   35.11,
+   16.17
+  ],
+  "emergency": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "min_LS_bg": [
+   0.86,
+   1.35,
+   0.86
+  ],
+  "min_JRws_bg": [
+   3.91,
+   4.49,
+   3.94
+  ],
+  "min_LS_JRws_bg": [
+   4.8,
+   5.84,
+   4.81
+  ],
+  "annual_demand": [
+   545.0,
+   544.0,
+   546.0
+  ],
+  "july_demand": [
+   646.0,
+   669.0,
+   661.0
+  ],
+  "min_nat_flow_late_summer": [
+   745.0,
+   495.0,
+   499.0
+  ],
+  "min_flow_below_intakes_late_summer": [
+   336.0,
+   141.0,
+   144.0
+  ]
+ },
+ "Table A.4-30: 2050 Higher Flows and High Demands.": {
+  "table": 30,
+  "year": 2050,
+  "flows": "Higher",
+  "demands": "High",
+  "pct_years_no_deficit": [
+   100.0,
+   100.0,
+   100.0
+  ],
+  "max_consec_deficit_days": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "deficit_days": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "max_deficit_mgd": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "total_deficit_mg": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "voluntary": [
+   5.85,
+   36.89,
+   32.94
+  ],
+  "emergency": [
+   0.16,
+   1.17,
+   0.0
+  ],
+  "min_LS_bg": [
+   0.21,
+   0.25,
+   0.29
+  ],
+  "min_JRws_bg": [
+   1.0,
+   1.06,
+   1.43
+  ],
+  "min_LS_JRws_bg": [
+   1.22,
+   1.31,
+   1.72
+  ],
+  "annual_demand": [
+   598.0,
+   595.0,
+   595.0
+  ],
+  "july_demand": [
+   708.0,
+   729.0,
+   723.0
+  ],
+  "min_nat_flow_late_summer": [
+   745.0,
+   495.0,
+   499.0
+  ],
+  "min_flow_below_intakes_late_summer": [
+   313.0,
+   141.0,
+   144.0
+  ]
+ },
+ "Table A.4-31: 2050 Medium Flows and Low Demands.": {
+  "table": 31,
+  "year": 2050,
+  "flows": "Medium",
+  "demands": "Low",
+  "pct_years_no_deficit": [
+   99.05,
+   99.77,
+   100.0
+  ],
+  "max_consec_deficit_days": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "deficit_days": [
+   1.0,
+   1.0,
+   0.0
+  ],
+  "max_deficit_mgd": [
+   -11.0,
+   -11.0,
+   0.0
+  ],
+  "total_deficit_mg": [
+   -12.0,
+   -12.0,
+   0.0
+  ],
+  "voluntary": [
+   3.75,
+   22.84,
+   20.68
+  ],
+  "emergency": [
+   2.1,
+   15.55,
+   0.0
+  ],
+  "min_LS_bg": [
+   0.0,
+   0.0,
+   0.76
+  ],
+  "min_JRws_bg": [
+   0.33,
+   0.33,
+   3.82
+  ],
+  "min_LS_JRws_bg": [
+   0.33,
+   0.33,
+   4.58
+  ],
+  "annual_demand": [
+   491.0,
+   488.0,
+   491.0
+  ],
+  "july_demand": [
+   584.0,
+   608.0,
+   600.0
+  ],
+  "min_nat_flow_late_summer": [
+   642.0,
+   392.0,
+   445.0
+  ],
+  "min_flow_below_intakes_late_summer": [
+   311.0,
+   150.0,
+   150.0
+  ]
+ },
+ "Table A.4-32: 2050 Medium Flows and Medium Demands.": {
+  "table": 32,
+  "year": 2050,
+  "flows": "Medium",
+  "demands": "Medium",
+  "pct_years_no_deficit": [
+   98.77,
+   97.19,
+   100.0
+  ],
+  "max_consec_deficit_days": [
+   3.0,
+   3.0,
+   0.0
+  ],
+  "deficit_days": [
+   10.0,
+   10.0,
+   0.0
+  ],
+  "max_deficit_mgd": [
+   -100.0,
+   -100.0,
+   0.0
+  ],
+  "total_deficit_mg": [
+   -315.0,
+   -315.0,
+   0.0
+  ],
+  "voluntary": [
+   6.8,
+   14.41,
+   35.36
+  ],
+  "emergency": [
+   2.51,
+   25.95,
+   0.0
+  ],
+  "min_LS_bg": [
+   0.0,
+   0.0,
+   0.26
+  ],
+  "min_JRws_bg": [
+   0.0,
+   0.0,
+   1.4
+  ],
+  "min_LS_JRws_bg": [
+   0.0,
+   0.0,
+   1.66
+  ],
+  "annual_demand": [
+   545.0,
+   539.0,
+   541.0
+  ],
+  "july_demand": [
+   646.0,
+   668.0,
+   660.0
+  ],
+  "min_nat_flow_late_summer": [
+   642.0,
+   392.0,
+   445.0
+  ],
+  "min_flow_below_intakes_late_summer": [
+   293.0,
+   140.0,
+   149.0
+  ]
+ },
+ "Table A.4-33: 2050 Medium Flows and High Demands.": {
+  "table": 33,
+  "year": 2050,
+  "flows": "Medium",
+  "demands": "High",
+  "pct_years_no_deficit": [
+   97.63,
+   89.86,
+   99.99
+  ],
+  "max_consec_deficit_days": [
+   18.0,
+   18.0,
+   0.0
+  ],
+  "deficit_days": [
+   38.0,
+   37.0,
+   0.0
+  ],
+  "max_deficit_mgd": [
+   -159.0,
+   -159.0,
+   0.0
+  ],
+  "total_deficit_mg": [
+   -1686.0,
+   -1660.0,
+   0.0
+  ],
+  "voluntary": [
+   8.75,
+   10.45,
+   37.69
+  ],
+  "emergency": [
+   3.75,
+   31.13,
+   3.88
+  ],
+  "min_LS_bg": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "min_JRws_bg": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "min_LS_JRws_bg": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "annual_demand": [
+   598.0,
+   588.0,
+   591.0
+  ],
+  "july_demand": [
+   708.0,
+   733.0,
+   725.0
+  ],
+  "min_nat_flow_late_summer": [
+   642.0,
+   392.0,
+   445.0
+  ],
+  "min_flow_below_intakes_late_summer": [
+   272.0,
+   139.0,
+   149.0
+  ]
+ },
+ "Table A.4-34: 2050 Lower Flows and Low Demands.": {
+  "table": 34,
+  "year": 2050,
+  "flows": "Lower",
+  "demands": "Low",
+  "pct_years_no_deficit": [
+   98.75,
+   81.68,
+   100.0
+  ],
+  "max_consec_deficit_days": [
+   47.0,
+   47.0,
+   0.0
+  ],
+  "deficit_days": [
+   67.0,
+   67.0,
+   0.0
+  ],
+  "max_deficit_mgd": [
+   -155.0,
+   -155.0,
+   0.0
+  ],
+  "total_deficit_mg": [
+   -4289.0,
+   -4289.0,
+   0.0
+  ],
+  "voluntary": [
+   7.09,
+   10.55,
+   39.1
+  ],
+  "emergency": [
+   2.51,
+   31.31,
+   0.0
+  ],
+  "min_LS_bg": [
+   0.0,
+   0.0,
+   0.24
+  ],
+  "min_JRws_bg": [
+   0.0,
+   0.0,
+   1.44
+  ],
+  "min_LS_JRws_bg": [
+   0.0,
+   0.0,
+   1.68
+  ],
+  "annual_demand": [
+   487.0,
+   479.0,
+   484.0
+  ],
+  "july_demand": [
+   579.0,
+   605.0,
+   595.0
+  ],
+  "min_nat_flow_late_summer": [
+   490.0,
+   300.0,
+   396.0
+  ],
+  "min_flow_below_intakes_late_summer": [
+   265.0,
+   140.0,
+   157.0
+  ]
+ },
+ "Table A.4-35: 2050 Lower Flows and Medium Demands.": {
+  "table": 35,
+  "year": 2050,
+  "flows": "Lower",
+  "demands": "Medium",
+  "pct_years_no_deficit": [
+   97.26,
+   76.66,
+   100.0
+  ],
+  "max_consec_deficit_days": [
+   61.0,
+   61.0,
+   0.0
+  ],
+  "deficit_days": [
+   87.0,
+   85.0,
+   0.0
+  ],
+  "max_deficit_mgd": [
+   -228.0,
+   -228.0,
+   0.0
+  ],
+  "total_deficit_mg": [
+   -9386.0,
+   -9340.0,
+   0.0
+  ],
+  "voluntary": [
+   8.98,
+   8.01,
+   37.73
+  ],
+  "emergency": [
+   3.75,
+   35.12,
+   4.2
+  ],
+  "min_LS_bg": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "min_JRws_bg": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "min_LS_JRws_bg": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "annual_demand": [
+   544.0,
+   533.0,
+   537.0
+  ],
+  "july_demand": [
+   646.0,
+   668.0,
+   660.0
+  ],
+  "min_nat_flow_late_summer": [
+   490.0,
+   300.0,
+   396.0
+  ],
+  "min_flow_below_intakes_late_summer": [
+   253.0,
+   139.0,
+   155.0
+  ]
+ },
+ "Table A.4-36: 2050 Lower Flows and High Demands.": {
+  "table": 36,
+  "year": 2050,
+  "flows": "Lower",
+  "demands": "High",
+  "pct_years_no_deficit": [
+   95.06,
+   72.5,
+   97.33
+  ],
+  "max_consec_deficit_days": [
+   65.0,
+   65.0,
+   5.0
+  ],
+  "deficit_days": [
+   117.0,
+   100.0,
+   10.0
+  ],
+  "max_deficit_mgd": [
+   -273.0,
+   -273.0,
+   -152.0
+  ],
+  "total_deficit_mg": [
+   -15976.0,
+   -14883.0,
+   -784.0
+  ],
+  "voluntary": [
+   12.34,
+   6.95,
+   44.27
+  ],
+  "emergency": [
+   4.66,
+   37.19,
+   7.15
+  ],
+  "min_LS_bg": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "min_JRws_bg": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "min_LS_JRws_bg": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "annual_demand": [
+   598.0,
+   583.0,
+   586.0
+  ],
+  "july_demand": [
+   707.0,
+   728.0,
+   716.0
+  ],
+  "min_nat_flow_late_summer": [
+   490.0,
+   300.0,
+   396.0
+  ],
+  "min_flow_below_intakes_late_summer": [
+   228.0,
+   -52.0,
+   54.0
+  ]
+ }
+}
