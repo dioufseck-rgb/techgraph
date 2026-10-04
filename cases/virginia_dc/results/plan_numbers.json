@@ -1,0 +1,1453 @@
+{
+ "NP_mod": {
+  "total": 267.59909838818436,
+  "resource": 267.59909838818436,
+  "instate": 1073.9267695726417,
+  "consumption": 1880.2492612742308,
+  "imports": 1380.0925118856283,
+  "shortfall": 0.0,
+  "bought": 0.0,
+  "bill35": 158.2392905879713,
+  "bill49": 185.82131676720311,
+  "imp_share49": 0.27317326848508,
+  "co2_49": 58.81233957500301,
+  "mix49": {
+   "nuclear": 0.10479488229592737,
+   "gas": 0.44942260496762293,
+   "solar_wind": 0.09390689465106364,
+   "osw": 0.035483946480757374,
+   "coal": 0.044711219191538434,
+   "fc": 0.0,
+   "imports": 0.27317326848508
+  },
+  "built": {
+   "smr": 0.0,
+   "fusion": 0.0,
+   "osw": 0.0,
+   "solar": 7.2,
+   "gas": 5.517011826992083,
+   "batt": 0.0,
+   "ldes": 0.0,
+   "fc": 0.0
+  },
+  "transfers": {
+   "rggi": 0.0,
+   "compliance": 0.0
+  },
+  "energy": 5203.253561177452,
+  "scc_instate": 255.25611324324785,
+  "scc_consumption": 446.90674630667553
+ },
+ "CP_mod": {
+  "total": 482.77733271778,
+  "resource": 459.752803210691,
+  "instate": 322.9459818482667,
+  "consumption": 1030.0998725161478,
+  "imports": 1547.9049125952913,
+  "shortfall": 49.37512302120899,
+  "bought": 0.0,
+  "bill35": 231.65255333002992,
+  "bill49": 379.4533015948884,
+  "imp_share49": 0.3,
+  "co2_49": 0.6576923076923049,
+  "mix49": {
+   "nuclear": 0.213750850086088,
+   "gas": 0.0059640115508436085,
+   "solar_wind": 0.2705093766152176,
+   "osw": 0.21399549262241369,
+   "coal": 0.0,
+   "fc": 0.0,
+   "imports": 0.3
+  },
+  "built": {
+   "smr": 3.0830182934536587,
+   "fusion": 0.4,
+   "osw": 13.08,
+   "solar": 39.6,
+   "gas": 1.0097400246747612,
+   "batt": 16.0,
+   "ldes": 4.0,
+   "fc": 0.0
+  },
+  "transfers": {
+   "rggi": 6.479015478514707,
+   "compliance": 16.545514028574225
+  },
+  "energy": 5203.253561177452,
+  "scc_instate": 76.75936427855018,
+  "scc_consumption": 244.83912419416737
+ },
+ "DF_mod": {
+  "total": 491.0403471304651,
+  "resource": 460.31385179977,
+  "instate": 362.1998803247161,
+  "consumption": 1068.8799542150198,
+  "imports": 1547.217606878241,
+  "shortfall": 9.581231445747152,
+  "bought": 0.0,
+  "bill35": 244.21539350785162,
+  "bill49": 386.0704577282516,
+  "imp_share49": 0.3000000000000001,
+  "co2_49": 4.708012685249332,
+  "mix49": {
+   "nuclear": 0.15487108974341388,
+   "gas": 0.00596928125142251,
+   "solar_wind": 0.31556456802673405,
+   "osw": 0.1969926537503039,
+   "coal": 0.0,
+   "fc": 0.032907687236051766,
+   "imports": 0.3000000000000001
+  },
+  "built": {
+   "smr": 1.238772383838133,
+   "fusion": 0.4,
+   "osw": 11.859641004385463,
+   "solar": 39.6,
+   "gas": 1.0,
+   "batt": 16.0,
+   "ldes": 4.0,
+   "fc": 5.269120682664066
+  },
+  "transfers": {
+   "rggi": 5.5877482914679355,
+   "compliance": 25.1387470392271
+  },
+  "energy": 5204.24232666989,
+  "scc_instate": 86.08942088821156,
+  "scc_consumption": 254.05656173848786
+ },
+ "DF_ISP_mod": {
+  "total": 521.0102780625078,
+  "resource": 483.73360557012825,
+  "instate": 404.5801998699809,
+  "consumption": 1111.2602737602845,
+  "imports": 1547.2176068782412,
+  "shortfall": 14.116612435820215,
+  "bought": 0.0,
+  "bill35": 253.52767660308885,
+  "bill49": 404.2675505657255,
+  "imp_share49": 0.3000000000000001,
+  "co2_49": 6.782989249342382,
+  "mix49": {
+   "nuclear": 0.18557480612032035,
+   "gas": 0.005877248381731017,
+   "solar_wind": 0.24505091053075684,
+   "osw": 0.2136183609169792,
+   "coal": 0.0,
+   "fc": 0.049766274564517966,
+   "imports": 0.3000000000000001
+  },
+  "built": {
+   "smr": 2.192781953018633,
+   "fusion": 0.4,
+   "osw": 13.08,
+   "solar": 26.4,
+   "gas": 0.4938140167682856,
+   "batt": 16.0,
+   "ldes": 4.0,
+   "fc": 7.968487871118532
+  },
+  "transfers": {
+   "rggi": 5.687526673249545,
+   "compliance": 31.58914581913004
+  },
+  "energy": 5204.24232666989,
+  "scc_instate": 96.16258039184885,
+  "scc_consumption": 264.1297212421251
+ },
+ "DF_NNG_mod": {
+  "total": 479.0305498657261,
+  "resource": 453.25904574500225,
+  "instate": 307.5730759393519,
+  "consumption": 1014.2531498296555,
+  "imports": 1547.217606878241,
+  "shortfall": 34.26067786663787,
+  "bought": 0.0,
+  "bill35": 232.69920555239824,
+  "bill49": 385.50830626713787,
+  "imp_share49": 0.3,
+  "co2_49": 0.6576923076923074,
+  "mix49": {
+   "nuclear": 0.19203753281879657,
+   "gas": 0.005808218143364273,
+   "solar_wind": 0.3154993670171069,
+   "osw": 0.202694752376519,
+   "coal": 0.0,
+   "fc": 0.0,
+   "imports": 0.3
+  },
+  "built": {
+   "smr": 2.428989042541984,
+   "fusion": 0.4,
+   "osw": 12.278186049274183,
+   "solar": 39.6,
+   "gas": 0.0,
+   "batt": 16.0,
+   "ldes": 4.0,
+   "fc": 0.0
+  },
+  "transfers": {
+   "rggi": 6.130696112727531,
+   "compliance": 19.640808007996302
+  },
+  "energy": 5204.24232666989,
+  "scc_instate": 73.1054575851494,
+  "scc_consumption": 241.07259843542568
+ },
+ "NP_low": {
+  "total": 244.677237020355,
+  "resource": 244.677237020355,
+  "instate": 975.0637377529002,
+  "consumption": 1730.4618204171868,
+  "imports": 1282.5974081641575,
+  "shortfall": 0.0,
+  "bought": 0.0,
+  "bill35": 156.90403618489003,
+  "bill49": 180.96180480957912,
+  "imp_share49": 0.26844394743441385,
+  "co2_49": 51.222482282313784,
+  "mix49": {
+   "nuclear": 0.11759722269091295,
+   "gas": 0.4186669606540024,
+   "solar_wind": 0.10208825456137245,
+   "osw": 0.03981886772358377,
+   "coal": 0.05259342094264937,
+   "fc": 0.0,
+   "imports": 0.26844394743441385
+  },
+  "built": {
+   "smr": 0.0,
+   "fusion": 0.0,
+   "osw": 0.0,
+   "solar": 7.009051033875461,
+   "gas": 1.904646510035859,
+   "batt": 0.0,
+   "ldes": 0.0,
+   "fc": 0.0
+  },
+  "transfers": {
+   "rggi": 0.0,
+   "compliance": 0.0
+  },
+  "energy": 4865.930760397952,
+  "scc_instate": 231.75786926540854,
+  "scc_consumption": 411.30454227461024
+ },
+ "CP_low": {
+  "total": 435.87567024627214,
+  "resource": 415.2028805188428,
+  "instate": 298.18288282856383,
+  "consumption": 959.7981953912124,
+  "imports": 1446.7080723614413,
+  "shortfall": 25.485001164474596,
+  "bought": 0.0,
+  "bill35": 231.3934678585449,
+  "bill49": 363.3960508476338,
+  "imp_share49": 0.2999999999999998,
+  "co2_49": 0.6576923076923054,
+  "mix49": {
+   "nuclear": 0.17376306039403558,
+   "gas": 0.006647263190722832,
+   "solar_wind": 0.30351691753122745,
+   "osw": 0.22157055743305257,
+   "coal": 0.0,
+   "fc": 0.0,
+   "imports": 0.2999999999999998
+  },
+  "built": {
+   "smr": 1.2,
+   "fusion": 0.4,
+   "osw": 11.867599966051662,
+   "solar": 39.6,
+   "gas": 1.0,
+   "batt": 16.0,
+   "ldes": 4.0,
+   "fc": 0.0
+  },
+  "transfers": {
+   "rggi": 5.934227300081245,
+   "compliance": 14.738562427348109
+  },
+  "energy": 4865.930760397952,
+  "scc_instate": 70.87355103064839,
+  "scc_consumption": 228.12948125963678
+ },
+ "DF_low": {
+  "total": 438.5566307842802,
+  "resource": 410.26885737141134,
+  "instate": 340.27681082483826,
+  "consumption": 1001.3314946727983,
+  "imports": 1445.6523348360925,
+  "shortfall": 5.828962250893712,
+  "bought": 0.0,
+  "bill35": 234.87733665325376,
+  "bill49": 367.5073274247024,
+  "imp_share49": 0.29999999999999977,
+  "co2_49": 3.9246248076922905,
+  "mix49": {
+   "nuclear": 0.13630900140383087,
+   "gas": 0.006701041876209175,
+   "solar_wind": 0.3546513740516054,
+   "osw": 0.18349135225842633,
+   "coal": 0.0,
+   "fc": 0.029838101279783744,
+   "imports": 0.29999999999999977
+  },
+  "built": {
+   "smr": 0.232691179112918,
+   "fusion": 0.32404596428811117,
+   "osw": 9.381192413197294,
+   "solar": 39.6,
+   "gas": 1.0,
+   "batt": 16.0,
+   "ldes": 4.0,
+   "fc": 4.25
+  },
+  "transfers": {
+   "rggi": 5.484600495208236,
+   "compliance": 22.803172917660604
+  },
+  "energy": 4865.930760397951,
+  "scc_instate": 80.87863960456103,
+  "scc_consumption": 238.0013168867578
+ },
+ "NP_high": {
+  "total": 298.62267732535946,
+  "resource": 298.62267732535946,
+  "instate": 1187.2072200162825,
+  "consumption": 2055.8586966443127,
+  "imports": 1511.4766801231497,
+  "shortfall": 0.0,
+  "bought": 0.0,
+  "bill35": 160.11392942568006,
+  "bill49": 194.57149844893283,
+  "imp_share49": 0.27738682881248605,
+  "co2_49": 66.35901480487328,
+  "mix49": {
+   "nuclear": 0.09261597933330017,
+   "gas": 0.4657337913913437,
+   "solar_wind": 0.10173511658016333,
+   "osw": 0.03136012352822188,
+   "coal": 0.03768861864586143,
+   "fc": 0.0,
+   "imports": 0.27738682881248605
+  },
+  "built": {
+   "smr": 0.0,
+   "fusion": 0.0,
+   "osw": 0.0,
+   "solar": 10.8,
+   "gas": 8.052584486465925,
+   "batt": 4.764018063415977,
+   "ldes": 0.0,
+   "fc": 0.0
+  },
+  "transfers": {
+   "rggi": 0.0,
+   "compliance": 0.0
+  },
+  "energy": 5645.929763552214,
+  "scc_instate": 282.1811590712746,
+  "scc_consumption": 488.6464469933864
+ },
+ "CP_high": {
+  "total": 530.5930098966099,
+  "resource": 497.4110209228024,
+  "instate": 412.4447122131022,
+  "consumption": 1178.4854087242636,
+  "imports": 1682.053129426663,
+  "shortfall": 138.46558777983975,
+  "bought": 0.0,
+  "bill35": 234.21914851118817,
+  "bill49": 384.0515569312263,
+  "imp_share49": 0.30000000000000004,
+  "co2_49": 4.76737193177433,
+  "mix49": {
+   "nuclear": 0.23637809650737804,
+   "gas": 0.038644583783804164,
+   "solar_wind": 0.239084394661082,
+   "osw": 0.18912566804712272,
+   "coal": 0.0,
+   "fc": 0.0,
+   "imports": 0.30000000000000004
+  },
+  "built": {
+   "smr": 4.8,
+   "fusion": 0.4,
+   "osw": 13.08,
+   "solar": 39.6,
+   "gas": 2.0,
+   "batt": 16.0,
+   "ldes": 4.0,
+   "fc": 0.0
+  },
+  "transfers": {
+   "rggi": 8.44798754654109,
+   "compliance": 24.734001427266424
+  },
+  "energy": 5645.929763552214,
+  "scc_instate": 98.03185575599453,
+  "scc_consumption": 280.108116742953
+ },
+ "DF_high": {
+  "total": 575.398573472608,
+  "resource": 538.4270929152227,
+  "instate": 421.13398021384927,
+  "consumption": 1198.1227693930623,
+  "imports": 1704.0062748414935,
+  "shortfall": 22.551628244630308,
+  "bought": 0.0,
+  "bill35": 256.12692311467515,
+  "bill49": 407.4999546005513,
+  "imp_share49": 0.2999999999999999,
+  "co2_49": 8.359730305419818,
+  "mix49": {
+   "nuclear": 0.19473095061745938,
+   "gas": 0.014246323463892353,
+   "solar_wind": 0.26821558463384115,
+   "osw": 0.1815100610887066,
+   "coal": 0.0,
+   "fc": 0.04510661797393206,
+   "imports": 0.2999999999999999
+  },
+  "built": {
+   "smr": 3.589114101637922,
+   "fusion": 0.4,
+   "osw": 13.08,
+   "solar": 39.6,
+   "gas": 1.0,
+   "batt": 16.0,
+   "ldes": 4.0,
+   "fc": 8.5
+  },
+  "transfers": {
+   "rggi": 5.897880436766485,
+   "compliance": 31.073600120618718
+  },
+  "energy": 5726.125203836629,
+  "scc_instate": 100.09716303731153,
+  "scc_consumption": 284.77561968700195
+ },
+ "CP_mod_buy60": {
+  "total": 455.118385923408,
+  "resource": 329.0762588912815,
+  "instate": 680.5727220075877,
+  "consumption": 1390.9218952393128,
+  "imports": 1542.9890932663066,
+  "shortfall": 0.0,
+  "bought": 407.00186318052886,
+  "bill35": 215.48506325538068,
+  "bill49": 308.2837166527072,
+  "imp_share49": 0.29960186476197076,
+  "co2_49": 33.863561592754074,
+  "mix49": {
+   "nuclear": 0.10479488229592737,
+   "gas": 0.299088381462032,
+   "solar_wind": 0.2703314023983831,
+   "osw": 0.035483946480757374,
+   "coal": 0.0006635587300511005,
+   "fc": 0.0,
+   "imports": 0.29960186476197076
+  },
+  "built": {
+   "smr": 0.0,
+   "fusion": 0.0,
+   "osw": 0.0,
+   "solar": 39.6,
+   "gas": 0.7153502029769965,
+   "batt": 16.0,
+   "ldes": 4.0,
+   "fc": 0.0
+  },
+  "transfers": {
+   "rggi": 74.98145811291407,
+   "compliance": 51.06066891921245
+  },
+  "energy": 5203.253561177452,
+  "scc_instate": 161.76181907465113,
+  "scc_consumption": 330.6010492177265
+ },
+ "DF_mod_buy60": {
+  "total": 450.4350606015483,
+  "resource": 333.5039823147769,
+  "instate": 616.0420428164663,
+  "consumption": 1325.3100306202832,
+  "imports": 1543.2362008574567,
+  "shortfall": 0.0,
+  "bought": 342.72964474375163,
+  "bill35": 216.7979525043395,
+  "bill49": 315.3742594630294,
+  "imp_share49": 0.29956775225499627,
+  "co2_49": 29.15145248032461,
+  "mix49": {
+   "nuclear": 0.10461019862714185,
+   "gas": 0.2560160094998321,
+   "solar_wind": 0.31532996026613475,
+   "osw": 0.035421411886744004,
+   "coal": 0.0007204129083424612,
+   "fc": 0.0,
+   "imports": 0.29956775225499627
+  },
+  "built": {
+   "smr": 0.0,
+   "fusion": 0.0,
+   "osw": 0.0,
+   "solar": 39.6,
+   "gas": 0.0,
+   "batt": 16.0,
+   "ldes": 4.0,
+   "fc": 0.0
+  },
+  "transfers": {
+   "rggi": 65.83900152250504,
+   "compliance": 51.092076764266366
+  },
+  "energy": 5204.24232666989,
+  "scc_instate": 146.42385486520382,
+  "scc_consumption": 315.0061036219851
+ },
+ "CP_noDC": {
+  "total": 306.88304539496437,
+  "resource": 289.9509376743059,
+  "instate": 268.9404004348311,
+  "consumption": 810.3669216026202,
+  "imports": 1166.2513022578644,
+  "shortfall": 0.754408838669949,
+  "bought": 0.0,
+  "bill35": 208.22237113661106,
+  "bill49": 304.83789998944076,
+  "imp_share49": 0.2994421303972242,
+  "co2_49": 0.6576923076923048,
+  "mix49": {
+   "nuclear": 0.19176767595404534,
+   "gas": 0.008080264629066147,
+   "solar_wind": 0.4339185153660456,
+   "osw": 0.08813538752890832,
+   "coal": 0.000929782671292341,
+   "fc": 0.0,
+   "imports": 0.2994421303972242
+  },
+  "built": {
+   "smr": 0.0,
+   "fusion": 0.4,
+   "osw": 1.3504164470397841,
+   "solar": 38.70615267337171,
+   "gas": 1.0,
+   "batt": 16.0,
+   "ldes": 4.0,
+   "fc": 0.0
+  },
+  "transfers": {
+   "rggi": 5.290892687419124,
+   "compliance": 11.641215033239257
+  },
+  "energy": 3949.3074514216382,
+  "scc_instate": 63.923056258664374,
+  "scc_consumption": 192.61193274053022
+ },
+ "CP_assigned": {
+  "total": 482.8621189819316,
+  "resource": 459.8502729868717,
+  "instate": 322.96337649101264,
+  "consumption": 1030.1172671588938,
+  "imports": 1547.9049125952913,
+  "shortfall": 49.39251766395487,
+  "bought": 0.0,
+  "bill35": 210.05853563227518,
+  "bill49": 307.2964760422266,
+  "imp_share49": 0.29999999999999993,
+  "co2_49": 0.6576923076923062,
+  "mix49": {
+   "nuclear": 0.2139889893467649,
+   "gas": 0.005963941154128496,
+   "solar_wind": 0.27025411615591516,
+   "osw": 0.21399549262241369,
+   "coal": 0.0,
+   "fc": 0.0,
+   "imports": 0.29999999999999993
+  },
+  "built": {
+   "smr": 3.090630941187877,
+   "fusion": 0.4,
+   "osw": 13.08,
+   "solar": 39.6,
+   "gas": 1.0099056631594159,
+   "batt": 16.0,
+   "ldes": 4.0,
+   "fc": 0.0
+  },
+  "transfers": {
+   "rggi": 6.479398160655117,
+   "compliance": 16.53244783440475
+  },
+  "energy": 5203.253561177452,
+  "scc_instate": 76.7634987214418,
+  "scc_consumption": 244.84325863705902
+ },
+ "ratios": {
+  "plan_CP": 1.4305084745762713,
+  "plan_DF": 1.305084745762712,
+  "model_CP_total": 1.8041067239227166,
+  "model_DF_total": 1.834985058201327,
+  "model_CP_res": 1.7180655913263385,
+  "model_DF_res": 1.7201621925199089
+ },
+ "decomposition": {
+  "CP_mod_2035": {
+   "capacity": 122.38110344712658,
+   "energy": 21.810663417229243,
+   "other": 87.46078646567409,
+   "bill": 231.65255333002992
+  },
+  "CP_mod_2049": {
+   "capacity": 274.232892745503,
+   "energy": 13.554130199842032,
+   "other": 91.66627864954337,
+   "bill": 379.4533015948884
+  },
+  "CP_noDC_2049": {
+   "capacity": 202.25537348307594,
+   "energy": 11.195583491958667,
+   "other": 91.38694301440614,
+   "bill": 304.83789998944076
+  }
+ },
+ "compute": {
+  "mckinsey|none|high": {
+   "sav_tot": 0.0,
+   "sav_res": 0.0,
+   "bill35": 0.0,
+   "d_instate": 0.0
+  },
+  "mckinsey|pause|high": {
+   "sav_tot": 5.685547751733793,
+   "sav_res": 5.687043157726919,
+   "bill35": 3.91416686613519,
+   "d_instate": 0.06797299969332471
+  },
+  "mckinsey|offpeak|high": {
+   "sav_tot": 3.411900330887761,
+   "sav_res": 3.3939450812183054,
+   "bill35": 2.1146152493342356,
+   "d_instate": -0.817572490410555
+  },
+  "mckinsey|inf_tou|high": {
+   "sav_tot": 4.500647852660109,
+   "sav_res": 4.477578026408366,
+   "bill35": 2.4877172137316848,
+   "d_instate": -1.0830293019206465
+  },
+  "mckinsey|all|high": {
+   "sav_tot": 8.146621871422212,
+   "sav_res": 8.111260932496748,
+   "bill35": 6.164378504949582,
+   "d_instate": -1.6442559119545876
+  },
+  "iea_inference|none|high": {
+   "sav_tot": 0.0,
+   "sav_res": 0.0,
+   "bill35": 0.0,
+   "d_instate": 0.0
+  },
+  "iea_inference|pause|high": {
+   "sav_tot": 2.6909983972481086,
+   "sav_res": 2.6915336476424727,
+   "bill35": 1.8314035662763501,
+   "d_instate": 0.02432956338270742
+  },
+  "iea_inference|offpeak|high": {
+   "sav_tot": 1.814905778504908,
+   "sav_res": 1.8079391265058575,
+   "bill35": 1.1910074085079998,
+   "d_instate": -0.3166659999538979
+  },
+  "iea_inference|inf_tou|high": {
+   "sav_tot": 3.2282381565693186,
+   "sav_res": 3.2041175841333143,
+   "bill35": 1.9789301392821415,
+   "d_instate": -1.119073627166756
+  },
+  "iea_inference|all|high": {
+   "sav_tot": 4.495860806411088,
+   "sav_res": 4.46634065025745,
+   "bill35": 3.286200650925167,
+   "d_instate": -1.364695434186899
+  },
+  "lbnl_half|none|high": {
+   "sav_tot": 0.0,
+   "sav_res": 0.0,
+   "bill35": 0.0,
+   "d_instate": 0.0
+  },
+  "lbnl_half|pause|high": {
+   "sav_tot": 5.437187553244371,
+   "sav_res": 5.4384962790001055,
+   "bill35": 4.071147710095886,
+   "d_instate": 0.05948753434876153
+  },
+  "lbnl_half|offpeak|high": {
+   "sav_tot": 3.0211911368933215,
+   "sav_res": 2.9971517534886516,
+   "bill35": 1.9423897494603182,
+   "d_instate": -1.0934439796415063
+  },
+  "lbnl_half|inf_tou|high": {
+   "sav_tot": 3.045330679735116,
+   "sav_res": 3.025130461755907,
+   "bill35": 1.5843787900500104,
+   "d_instate": -0.9544006392508209
+  },
+  "lbnl_half|all|high": {
+   "sav_tot": 7.037605108484399,
+   "sav_res": 6.997873346998972,
+   "bill35": 5.898818442453717,
+   "d_instate": -1.8435823925150885
+  },
+  "training_heavy|none|high": {
+   "sav_tot": 0.0,
+   "sav_res": 0.0,
+   "bill35": 0.0,
+   "d_instate": 0.0
+  },
+  "training_heavy|pause|high": {
+   "sav_tot": 6.485624166278626,
+   "sav_res": 6.487323927172326,
+   "bill35": 5.1864383320642276,
+   "d_instate": 0.07726185880858338
+  },
+  "training_heavy|offpeak|high": {
+   "sav_tot": 3.5193991212699984,
+   "sav_res": 3.487494628533568,
+   "bill35": 2.2779170187159252,
+   "d_instate": -1.4516901479315152
+  },
+  "training_heavy|inf_tou|high": {
+   "sav_tot": 2.5840803983617207,
+   "sav_res": 2.5682577511300337,
+   "bill35": 1.2381228660939598,
+   "d_instate": -0.7554201507227845
+  },
+  "training_heavy|all|high": {
+   "sav_tot": 11.983359216879307,
+   "sav_res": 11.986585313433068,
+   "bill35": 8.377798430706235,
+   "d_instate": 0.107930417405953
+  },
+  "mckinsey|none|mod": {
+   "sav_tot": 0.0,
+   "sav_res": 0.0,
+   "bill35": 0.0,
+   "d_instate": 0.0
+  },
+  "mckinsey|all|mod": {
+   "sav_tot": 6.596769847522012,
+   "sav_res": 6.721648571431956,
+   "bill35": 5.504828051986891,
+   "d_instate": -0.5250610161481859
+  },
+  "iea_inference|none|mod": {
+   "sav_tot": 0.0,
+   "sav_res": 0.0,
+   "bill35": 0.0,
+   "d_instate": 0.0
+  },
+  "iea_inference|all|mod": {
+   "sav_tot": 3.9646166486246557,
+   "sav_res": 4.066079777685104,
+   "bill35": 3.0900398956992206,
+   "d_instate": -0.23342228034266554
+  }
+ },
+ "compute_base_total_high": {
+  "mckinsey": 532.1858502368052,
+  "iea_inference": 533.7441361268866,
+  "lbnl_half": 535.0189998482388,
+  "training_heavy": 535.3448650519846
+ },
+ "reliability": {
+  "mckinsey|none": {
+   "sav_tot": 0.0,
+   "sav_res": 0.0,
+   "stress": {
+    "2031": {
+     "base": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%,imports70%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     }
+    },
+    "2035": {
+     "base": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%,imports70%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     }
+    },
+    "2041": {
+     "base": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%,imports70%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     }
+    }
+   }
+  },
+  "mckinsey|all": {
+   "sav_tot": 8.146621871422212,
+   "sav_res": 8.111260932496748,
+   "stress": {
+    "2031": {
+     "base": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%,imports70%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     }
+    },
+    "2035": {
+     "base": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%,imports70%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     }
+    },
+    "2041": {
+     "base": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%,imports70%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     }
+    }
+   }
+  },
+  "mckinsey|all_credit50": {
+   "sav_tot": 5.355141865136943,
+   "sav_res": 5.3187558846107095,
+   "stress": {
+    "2031": {
+     "base": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%,imports70%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     }
+    },
+    "2035": {
+     "base": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%,imports70%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     }
+    },
+    "2041": {
+     "base": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%,imports70%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     }
+    }
+   }
+  },
+  "mckinsey|all_4h_per_day": {
+   "sav_tot": 8.146621871422212,
+   "sav_res": 8.111260932496748,
+   "stress": {
+    "2031": {
+     "base": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%,imports70%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     }
+    },
+    "2035": {
+     "base": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%,imports70%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     }
+    },
+    "2041": {
+     "base": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%,imports70%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     }
+    }
+   }
+  },
+  "iea_inference|none": {
+   "sav_tot": 0.0,
+   "sav_res": 0.0,
+   "stress": {
+    "2031": {
+     "base": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%,imports70%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     }
+    },
+    "2035": {
+     "base": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%,imports70%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     }
+    },
+    "2041": {
+     "base": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%,imports70%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     }
+    }
+   }
+  },
+  "iea_inference|all": {
+   "sav_tot": 4.495860806411088,
+   "sav_res": 4.46634065025745,
+   "stress": {
+    "2031": {
+     "base": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%,imports70%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     }
+    },
+    "2035": {
+     "base": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%,imports70%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     }
+    },
+    "2041": {
+     "base": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%,imports70%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     }
+    }
+   }
+  },
+  "iea_inference|all_credit50": {
+   "sav_tot": 2.8950929185160703,
+   "sav_res": 2.8651579459517507,
+   "stress": {
+    "2031": {
+     "base": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%,imports70%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     }
+    },
+    "2035": {
+     "base": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%,imports70%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     }
+    },
+    "2041": {
+     "base": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%,imports70%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     }
+    }
+   }
+  },
+  "iea_inference|all_4h_per_day": {
+   "sav_tot": 4.495860806411088,
+   "sav_res": 4.46634065025745,
+   "stress": {
+    "2031": {
+     "base": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%,imports70%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     }
+    },
+    "2035": {
+     "base": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%,imports70%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     }
+    },
+    "2041": {
+     "base": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%,imports70%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     }
+    }
+   }
+  },
+  "training_heavy|none": {
+   "sav_tot": 0.0,
+   "sav_res": 0.0,
+   "stress": {
+    "2031": {
+     "base": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%,imports70%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     }
+    },
+    "2035": {
+     "base": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%,imports70%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     }
+    },
+    "2041": {
+     "base": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%,imports70%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     }
+    }
+   }
+  },
+  "training_heavy|all": {
+   "sav_tot": 11.983359216879307,
+   "sav_res": 11.986585313433068,
+   "stress": {
+    "2031": {
+     "base": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%,imports70%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     }
+    },
+    "2035": {
+     "base": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%,imports70%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     }
+    },
+    "2041": {
+     "base": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%,imports70%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     }
+    }
+   }
+  },
+  "training_heavy|all_credit50": {
+   "sav_tot": 5.174214677702707,
+   "sav_res": 5.129456202328299,
+   "stress": {
+    "2031": {
+     "base": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%,imports70%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     }
+    },
+    "2035": {
+     "base": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%,imports70%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     }
+    },
+    "2041": {
+     "base": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%,imports70%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     }
+    }
+   }
+  },
+  "training_heavy|all_4h_per_day": {
+   "sav_tot": 11.983359216879307,
+   "sav_res": 11.986585313433068,
+   "stress": {
+    "2031": {
+     "base": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%,imports70%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     }
+    },
+    "2035": {
+     "base": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%,imports70%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     }
+    },
+    "2041": {
+     "base": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     },
+     "snap+10%,imports70%": {
+      "unserved_mwh": 0.0,
+      "max_short_mw": 0.0,
+      "curtailed_mwh": 0.0
+     }
+    }
+   }
+  }
+ }
+}

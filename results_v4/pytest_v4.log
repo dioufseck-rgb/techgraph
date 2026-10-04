@@ -1,0 +1,83 @@
+........................................................................ [ 10%]
+........................................................................ [ 21%]
+........................................................................ [ 31%]
+........................................................................ [ 42%]
+...............................................................FFF...... [ 52%]
+........................................................................ [ 63%]
+........................................................................ [ 74%]
+........................................................................ [ 84%]
+........................................................................ [ 95%]
+.................................                                        [100%]
+==================================== ERRORS ====================================
+___________________ ERROR collecting tests/test_discovery.py ___________________
+ImportError while importing test module '/home/claude/v4/tests/test_discovery.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+/usr/lib/python3.12/importlib/__init__.py:90: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+tests/test_discovery.py:12: in <module>
+    from run_discovery_pilot import run_one, rebuild_tables
+E   ModuleNotFoundError: No module named 'run_discovery_pilot'
+_______________ ERROR collecting tests/test_measurement_spine.py _______________
+ImportError while importing test module '/home/claude/v4/tests/test_measurement_spine.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+/usr/lib/python3.12/importlib/__init__.py:90: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+tests/test_measurement_spine.py:10: in <module>
+    from run_demand_sensitivity import graph_metrics as legacy_entry_graph_metrics
+E   ModuleNotFoundError: No module named 'run_demand_sensitivity'
+________________ ERROR collecting tests/test_stateful_replay.py ________________
+ImportError while importing test module '/home/claude/v4/tests/test_stateful_replay.py'.
+Hint: make sure your test modules/packages have valid Python names.
+Traceback:
+/usr/lib/python3.12/importlib/__init__.py:90: in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+tests/test_stateful_replay.py:5: in <module>
+    from stateful_replay import FrozenProposalReplay
+E   ModuleNotFoundError: No module named 'stateful_replay'
+=================================== FAILURES ===================================
+___________ test_persistent_vsr_runs_on_generated_network[separated] ___________
+
+con = 'separated'
+
+    @pytest.mark.parametrize('con',['separated','rich'])
+    def test_persistent_vsr_runs_on_generated_network(con):
+>       from run_network_vsr_probe import inputs
+E       ModuleNotFoundError: No module named 'run_network_vsr_probe'
+
+tests/test_network_worlds.py:137: ModuleNotFoundError
+_____________ test_persistent_vsr_runs_on_generated_network[rich] ______________
+
+con = 'rich'
+
+    @pytest.mark.parametrize('con',['separated','rich'])
+    def test_persistent_vsr_runs_on_generated_network(con):
+>       from run_network_vsr_probe import inputs
+E       ModuleNotFoundError: No module named 'run_network_vsr_probe'
+
+tests/test_network_worlds.py:137: ModuleNotFoundError
+___________ test_matched_network_proposals_do_not_depend_on_adoption ___________
+
+    def test_matched_network_proposals_do_not_depend_on_adoption():
+>       from run_network_vsr_probe import inputs
+E       ModuleNotFoundError: No module named 'run_network_vsr_probe'
+
+tests/test_network_worlds.py:147: ModuleNotFoundError
+=============================== warnings summary ===============================
+techgraph/backend.py:22
+  /home/claude/v4/techgraph/backend.py:22: RuntimeWarning: PuLP unavailable: using the explicit Techgraph SciPy/HiGHS backend.
+    warnings.warn('PuLP unavailable: using the explicit Techgraph SciPy/HiGHS backend.', RuntimeWarning)
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+=========================== short test summary info ============================
+FAILED tests/test_network_worlds.py::test_persistent_vsr_runs_on_generated_network[separated]
+FAILED tests/test_network_worlds.py::test_persistent_vsr_runs_on_generated_network[rich]
+FAILED tests/test_network_worlds.py::test_matched_network_proposals_do_not_depend_on_adoption
+ERROR tests/test_discovery.py
+ERROR tests/test_measurement_spine.py
+ERROR tests/test_stateful_replay.py
+3 failed, 678 passed, 1 warning, 3 errors in 140.01s (0:02:20)
