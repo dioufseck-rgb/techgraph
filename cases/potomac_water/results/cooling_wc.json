@@ -1,0 +1,95 @@
+{
+ "rows": [
+  {
+   "path": "Energy Plan path",
+   "scenario": "Low (30% water-cooled)",
+   "gw": 13.806724483784368,
+   "share": 0.3,
+   "water_avg": 8.284034690270621,
+   "water_peak": 28.994121415947173,
+   "extra_mw_avg": 773.1765710919245,
+   "extra_mw_peak": 1449.7060707973585,
+   "plant_water": 3.711247541241238,
+   "co2": 2.709210705106104,
+   "min_storage": 3.430636543219342,
+   "deficit_days": 0
+  },
+  {
+   "path": "Energy Plan path",
+   "scenario": "Medium (~65%)",
+   "gw": 13.806724483784368,
+   "share": 0.65,
+   "water_avg": 11.045379587027494,
+   "water_peak": 40.03950100297467,
+   "extra_mw_avg": 386.58828554596226,
+   "extra_mw_peak": 724.8530353986793,
+   "plant_water": 1.855623770620619,
+   "co2": 1.354605352553052,
+   "min_storage": 3.263319304187125,
+   "deficit_days": 0
+  },
+  {
+   "path": "Energy Plan path",
+   "scenario": "High (90%)",
+   "gw": 13.806724483784368,
+   "share": 0.9,
+   "water_avg": 19.329414277298117,
+   "water_peak": 71.79496731567872,
+   "extra_mw_avg": 110.45379587027492,
+   "extra_mw_peak": 207.10086725676547,
+   "plant_water": 0.5301782201773196,
+   "co2": 0.3870301007294434,
+   "min_storage": 3.003387083312119,
+   "deficit_days": 0
+  },
+  {
+   "path": "ICPRB path",
+   "scenario": "Low (30% water-cooled)",
+   "gw": 27.8,
+   "share": 0.3,
+   "water_avg": 16.68,
+   "water_peak": 58.38,
+   "extra_mw_avg": 1556.8,
+   "extra_mw_peak": 2919.0,
+   "plant_water": 7.472639999999999,
+   "co2": 5.4550272,
+   "min_storage": 3.043528888910318,
+   "deficit_days": 0
+  },
+  {
+   "path": "ICPRB path",
+   "scenario": "Medium (~65%)",
+   "gw": 27.8,
+   "share": 0.65,
+   "water_avg": 22.24,
+   "water_peak": 80.62,
+   "extra_mw_avg": 778.4,
+   "extra_mw_peak": 1459.5,
+   "plant_water": 3.7363199999999996,
+   "co2": 2.7275136,
+   "min_storage": 2.9561000941416578,
+   "deficit_days": 0
+  },
+  {
+   "path": "ICPRB path",
+   "scenario": "High (90%)",
+   "gw": 27.8,
+   "share": 0.9,
+   "water_avg": 38.92,
+   "water_peak": 144.56,
+   "extra_mw_avg": 222.39999999999998,
+   "extra_mw_peak": 416.99999999999994,
+   "plant_water": 1.06752,
+   "co2": 0.7792896,
+   "min_storage": 2.496718946601315,
+   "deficit_days": 0
+  }
+ ],
+ "base_min_2050_medium": 3.560923209134237,
+ "assumptions": {
+  "pen_avg": 0.08,
+  "pen_peak": 0.15,
+  "plant_gal_per_mwh": 200.0,
+  "co2_t_per_mwh": 0.4
+ }
+}
